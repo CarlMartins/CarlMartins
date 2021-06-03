@@ -4,7 +4,6 @@
 <p>Olá visitante :wave:,
  
 Sou Carlos Martins, tenho 22 anos e atualmente curso o 5º semestre de Ciências da Computação na UNIP (Universidade Paulista).</p>
-<p>Tenho como objetivo me tornar um desenvolvedor back-end.</p>
 <p>A procura do primeiro emprego :star:. </p>
 
 <h2>Tecnologias</h2>
@@ -13,6 +12,7 @@ Sou Carlos Martins, tenho 22 anos e atualmente curso o 5º semestre de Ciências
 <li>HTML, CSS e Javascript;</li>
 <li>Banco de dados SQL e NoSQL;</li>
 <li>Estudando sobre Node.js;</li>
+<li>Estudando sobre React;</li>
 <li>Estudando sobre .NET 5;</li>
 </ul>
 
