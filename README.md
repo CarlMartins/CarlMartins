@@ -15,6 +15,18 @@ Sou Carlos Martins, tenho 22 anos e atualmente curso o 5º semestre de Ciências
 <li>Estudando sobre React;</li>
 <li>Estudando sobre .NET 5;</li>
 </ul>
+<hr>
+<div align="center">
+  <a href="https://github.com/CarlMartins">
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlMartins&layout=compact&show_icons=true&theme=vision-friendly-dark" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/CarlMartins">
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=CarlMartins&show_icons=true&theme=vision-friendly-dark" alt="Github Stats"/>
+  </a>
+</div>
+
+    
+    
 
 
 <!--
