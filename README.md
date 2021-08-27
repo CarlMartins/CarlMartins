@@ -4,7 +4,7 @@
 <p>Olá visitante :wave:,
  
 Sou Carlos Martins, tenho 22 anos e atualmente curso o 6º semestre de Ciências da Computação na UNIP (Universidade Paulista).</p>
-<p><a href=https://www.linkedin.com/in/CarlosMartinsOliveira>Meu linkedin</a></p>
+<p><a href=https://www.linkedin.com/in/CarlosMartinsOliveira>Meu linkedin</a> :star2:</p>
 
 <h2>Tecnologias</h2>
 
