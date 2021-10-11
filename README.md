@@ -18,7 +18,7 @@ Sou Carlos Martins, tenho 22 anos e atualmente curso o 6º semestre de Ciências
 <hr>
 <div align="center">
   <a href="https://github.com/CarlMartins">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlMartins&layout=compact&show_icons=true&theme=vision-friendly-dark" alt="Top Langs" />
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlMartins&layout=compact&show_icons=true&theme=vision-friendly-dark&hide=python" alt="Top Langs" />
   </a>
   <a href="https://github.com/CarlMartins">
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=CarlMartins&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="Github Stats"/>
