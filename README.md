@@ -9,7 +9,7 @@ Sou Carlos Martins, tenho 22 anos e atualmente curso o 6º semestre de Ciências
 <h2>Tecnologias</h2>
 
 <ul>
-<li>HTML, CSS e Javascript;</li>
+<li>HTML, CSS, Javascript e Typescript;</li>
 <li>Banco de dados SQL e NoSQL;</li>
 <li>Estudando sobre ASP.NET;</li>
 <li>Estudando sobre Node.js;</li>
