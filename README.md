@@ -3,15 +3,15 @@
 <h2>Sobre</h2>
 <p>Olá visitante :wave:,
  
-Sou Carlos Martins, tenho 22 anos e atualmente curso o 6º semestre de Ciências da Computação na UNIP (Universidade Paulista).</p>
+Sou Carlos Martins, tenho 23 anos e atualmente curso o 7º semestre de Ciências da Computação na UNIP (Universidade Paulista).</p>
 <p><a href=https://www.linkedin.com/in/CarlosMartinsOliveira>Meu linkedin</a> :star2:</p>
 
 <h2>Tecnologias</h2>
 
 <ul>
+ <li>Estudando sobre C# e ASP.NET;</li>
 <li>HTML, CSS, Javascript e Typescript;</li>
 <li>Banco de dados SQL e NoSQL;</li>
-<li>Estudando sobre ASP.NET;</li>
 <li>Estudando sobre Node.js;</li>
 <li>Estudando sobre React e React Native;</li>
 </ul>
