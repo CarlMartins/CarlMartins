@@ -9,11 +9,11 @@ Sou Carlos Martins, tenho 23 anos e atualmente curso o 7º semestre de Ciências
 <h2>Tecnologias</h2>
 
 <ul>
- <li>Estudando sobre C# e ASP.NET;</li>
+<li>C# e ASP.NET;</li>
 <li>HTML, CSS, Javascript e Typescript;</li>
 <li>Banco de dados SQL e NoSQL;</li>
-<li>Estudando sobre Node.js;</li>
-<li>Estudando sobre React e React Native;</li>
+<li>Node.js;</li>
+<liReact e React Native;</li>
 </ul>
 <hr>
 <div align="center">
