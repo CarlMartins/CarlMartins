@@ -3,7 +3,7 @@
 <h2>Sobre</h2>
 <p>Olá visitante :wave:,
  
-Sou Carlos Martins, tenho 23 anos e atualmente curso o 7º semestre de Ciências da Computação na UNIP (Universidade Paulista).</p>
+Sou Carlos Martins, tenho 24 anos e sou formado em Ciências da Computação na UNIP (Universidade Paulista).</p>
 <p><a href=https://www.linkedin.com/in/CarlosMartinsOliveira>Meu linkedin</a> :star2:</p>
 
 <h2>Tecnologias</h2>
